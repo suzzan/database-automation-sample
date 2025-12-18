@@ -4,4 +4,4 @@ This repository contains anonymized examples of database automation and maintena
 - Automated PostgreSQL backup scripts
 - Sample maintenance stored procedures
 - Monitoring queries for long-running sessions
-These samples are for demonstration and learning purposes.
+These samples are for demonstration and learning purposes
